@@ -9,3 +9,16 @@ Objectives
 - Build SQL queries to answer business questions.
 - Create an interactive Power BI dashboard for visualization.
 - Summarize findings and provide insights for stakeholders.
+
+Key Analysis
+1. Transaction Counts
+- Identified towns with the most and least transactions per flat type
+- Example: 4-ROOM flats had the most transactions in Sengkang Town(2019 and 2022)
+
+2. Resale Price
+- Compared towns with the highest and lowest resale prices
+- Example: For 4-ROOM and 5-ROOM flats, Central Area led in high resale prices, while non-Central(Woodlands, Sembawang, Yishun and Jurong West) stayed at the lower end
+
+3. Remaming Lease(>=95 years)
+- Focused on the resale price of flat types that sell immediately after the MOP (Minimum Occupation Period)
+- Central Area(Bukit Merah and Queenstown) topped in prices, while Sembawang, Woodlands & Choa Chu Kang were the lowest
