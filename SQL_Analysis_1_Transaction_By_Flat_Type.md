@@ -6,7 +6,7 @@ To identify which **HDB flat type** (3-ROOM, 4-ROOM, or 5-ROOM) had the **highes
 ---
 
 ## Business Question
-> “Which flat type among 3-room, 4-room, and 5-room had the most resale transactions from 2017 to 2019?”
+> “Which flat type among 3-ROOM, 4-ROOM, and 5-ROOM had the most resale transactions from 2017 to 2019?”
 
 Understanding the popularity of different flat types can help inform public housing policies, pricing strategies, and development planning.
 
@@ -18,7 +18,7 @@ Understanding the popularity of different flat types can help inform public hous
   - `flat_type`
   - `year`
 - **Filtered Years**: 2017, 2018, 2019
-- **Filtered Flat Types**: 3-Room, 4-Room, 5-Room
+- **Filtered Flat Types**: 3-ROOM, 4-ROOM, 5-ROOM
 
 ---
 
