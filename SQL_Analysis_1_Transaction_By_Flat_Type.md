@@ -42,6 +42,11 @@ ORDER BY year ASC, total_transactions DESC;
 ```
 ---
 
+## Query and Output Screenshot
+![SQL Query and Result](./SQL_Analysis_1_Transaction_By_Flat_Type.png)
+
+---
+
 ## Findings
 - **4-ROOM** flats had the highest number of resale transactions from **2017 to 2019**.
 - **3-ROOM** flats consistenly had fewer transactions compared to 4-ROOM and 5-ROOM flats.
