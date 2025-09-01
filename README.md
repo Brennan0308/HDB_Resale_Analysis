@@ -10,7 +10,7 @@ Objectives
 - Create an interactive Power BI dashboard for visualization.
 - Summarize findings and provide insights for stakeholders.
 
-Key Analysis
+Key Analysis (Python)
 1. Transaction Counts
 - Identified towns with the most and least transactions per flat type
 - Example: 4-ROOM flats had the most transactions in Sengkang Town(2019 and 2022)
