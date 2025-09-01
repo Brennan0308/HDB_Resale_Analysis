@@ -12,7 +12,7 @@ Appreciating where demand or scarcity exists can help stakeholders understand ge
 
 ---
 ## Dataset
-- **Source**: HDB Resale Flat Prices — Data.gov.sg  
+- **Source**: [Data.gov.sg – HDB Resale Flat Prices](https://data.gov.sg/dataset/resale-flat-prices)
 - **Data Columns Used**:  
   - `year` (transaction year)  
   - `flat_type` (3‑ROOM, 4‑ROOM, 5‑ROOM)  
