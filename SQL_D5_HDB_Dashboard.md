@@ -38,7 +38,7 @@ To visualize the appreciation performance of HDB resale flats post-MOP and under
 
 ## Dashboard Preview
 
-![HDB Resale MOP_Dashboard](4.%20HDB_Resale_MOP_Dashboard.png)
+![HDB Resale MOP_Dashboard](/SQL_D5_HDB_Resale_MOP_Dashboard.png)
 
 ---
 
@@ -46,7 +46,7 @@ To visualize the appreciation performance of HDB resale flats post-MOP and under
 
 - 📂 `SQL_Analysis_5_HDB_BTO_Price_Appreciation_After_MOP.md` – Original SQL analysis
 - 📂 `SQL_D5_HDB_Dashboard.pbix` – Power BI file (dashboard)
-- 📂 `4. HDB_Resale_MOP_Dashboard.png` – Dashboard screenshot
+- 📂 `SQL_D5_HDB_Resale_MOP_Dashboard.png` – Dashboard screenshot
 
 ---
 
